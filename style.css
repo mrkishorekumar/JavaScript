@@ -1,0 +1,28 @@
+header {
+  margin: auto;
+  width: 60%;
+  border: 3px solid yellow;
+  padding: 10px;
+  line-height: 1.6;
+  font-family: "Times New Roman", Times, serif;
+}
+blockquote{
+	font-style: italic;
+	font-weight: bold;
+	text-align: justify-all;
+}
+
+section {
+  margin: auto;
+  width: 60%;
+  border: 3px solid green;
+  padding: 10px;
+  line-height: 1.6;
+  font-family: "Times New Roman", Times, serif;
+}
+h2 {
+	text-align: center;
+}
+a {
+  color: black;
+}
